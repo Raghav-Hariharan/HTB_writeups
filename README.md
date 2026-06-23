@@ -1,2 +1,2 @@
 # HTB_writeups
-All solved HTB labs writeups
+All solved HTB boxes writeups
